@@ -20,5 +20,5 @@ This will open the web application in your browser but you will need to have the
 
 ## How to test
 
-You can also test the application by using the user interface that you can find in [this repository](https://github.com/adlopp/users-app).
+You just need to have deployed the API that you can find in [this repository](https://github.com/adlopp/users-api).
 
