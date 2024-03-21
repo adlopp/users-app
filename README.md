@@ -4,7 +4,7 @@ The purpose of this project is to create a simple web application for user manag
 
 ## Prerequisites 
 
-You only need the application of this [this repository](https://github.com/adlopp/users-api) running.
+You only need the API of this [this repository](https://github.com/adlopp/users-api) running.
 
 
 ## How to run
